@@ -6,4 +6,4 @@ In this challenge you will be creating an application that will be doing some pr
 		
 As the action is repeated, everything should be cleared and reset. This would happen starting with any proceeding button click. 
 
-![](http://i.giphy.com/26BRJtNUA3SLLt2IE.gif)	
+![](http://i.giphy.com/l41YAmqGRKBdid6zm.gif)	
